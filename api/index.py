@@ -1,4 +1,3 @@
-
 import requests
 import random
 from flask import Flask, jsonify, request
